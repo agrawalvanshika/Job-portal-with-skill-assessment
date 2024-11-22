@@ -3,17 +3,17 @@ Deliverable 2: Define the Project Structure
 
 Suggested project structure:
 
-Jobfit/
+Jobfit
 │
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   ├── com.jobfit/
-│   │   │   │   ├── model/   # POJO classes
-│   │   │   │   ├── dao/     # Data Access Object (DAO) classes
-│   │   │   │   ├── service/ # Service layer
-│   │   │   │   └── app/     # Main application
-│   │   └── resources/       # Configuration files (e.g., database.properties)
-│   └── test/
+├── src
+│   ├── main
+│   │   ├── java
+│   │   │   ├── com.jobfit
+│   │   │   │   ├── model   # POJO classes
+│   │   │   │   ├── dao     # Data Access Object (DAO) classes
+│   │   │   │   ├── service # Service layer
+│   │   │   │   └── app     # Main application
+│   │   └── resources       # Configuration files (e.g., database.properties)
+│   └── test
 ├── pom.xml (for Maven projects)
 └── build.gradle (for Gradle projects)
