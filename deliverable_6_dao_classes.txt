@@ -1,7 +1,0 @@
-
-Deliverable 6: Create DAO Classes for Database Operations
-
-1. Example DAO Class (JobSeekerDAO.java) with addJobSeeker and getJobSeekerById methods.
-2. Model Class (JobSeeker.java) for representing job seeker data.
-
-Refer to the provided Java code for implementation.
