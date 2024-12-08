@@ -20,7 +20,7 @@ Responsive Design: Works seamlessly on desktops, tablets, and mobile devices.
 Interactive UI: Real-time job search filtering powered by JavaScript.
 
 
-Technologies Used
+__Technologies Used__
 
 HTML5: For structuring the content.
 
@@ -29,7 +29,7 @@ CSS3: For styling and responsive design.
 JavaScript (ES6): For interactivity (e.g., job search filtering).
 
 
-How to Use
+__How to Use__
 1. Clone the Repository
 2. Open in Browser
 3. Navigate to the project directory.
