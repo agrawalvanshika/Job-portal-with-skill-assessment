@@ -1,4 +1,0 @@
-
-Deliverable 3: Design the Database Schema
-
-Use the provided SQL schema, including tables such as job_seekers, employers, jobs, skills, etc.
