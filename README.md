@@ -5,8 +5,7 @@ We had made Jobfit - Modern Job Portal
 Jobfit is a modern job portal designed to connect job seekers with employers effectively. The platform features job search functionality, registration forms for both job seekers and employers, and interactive components with a clean and responsive UI.
 
 
-Features
-
+__Features__
 
 Home Page: Clean and modern UI with easy navigation.
 
