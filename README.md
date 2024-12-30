@@ -1,5 +1,7 @@
 Hello Sir/Mam,
 
+__AS COMMENTED BY YOU ALL THE CHANGES DONE IN REVIEW 2 FOLDER (JSP FILES, JS VALIDATION, WEBPAGE PRESENT IN PNG FROMAT)__
+
 We had made Jobfit - Modern Job Portal
 
 Jobfit is a modern job portal designed to connect job seekers with employers effectively. The platform features job search functionality, registration forms for both job seekers and employers, and interactive components with a clean and responsive UI.
