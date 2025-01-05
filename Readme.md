@@ -33,23 +33,13 @@ JavaScript (ES6): For interactivity (e.g., job search filtering).
 __Structure__
 
 Job-portal-with-skill-assessment/  
-├── src/  
-│    ├── main/  
-│    │    ├── java/               (Java source files)  
-│    │    ├── resources/          (Configuration files)  
-│    │    └── webapp/             (HTML, JSP, JS, CSS files)  
-│    └── test/                   (Test files)  
-└── pom.xml  
-
-project-root/
-├── src/
-│   ├── main/
-│   │   ├── java/               (Java source files)
-│   │   ├── resources/          (Configuration files)
-│   │   └── webapp/             (HTML, JSP, JS, CSS files)
-│   │       └── WEB-INF/
-│   └── test/                   (Test files)
-└── pom.xml
+├── src/    
+│    ├── main/    
+│    │    ├── java/                 (Java source files)  
+│    │    ├── resources/            (Configuration files)  
+│    │    └── webapp/               (HTML, JSP, JS, CSS files)  
+│    └── test/                     (Test files)  
+└── pom.xml    
 
 
 __How to Use__
