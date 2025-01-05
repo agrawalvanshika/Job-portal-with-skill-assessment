@@ -1,1 +1,0 @@
-Main program file are in:  src/main/java/jobportal.java
