@@ -65,7 +65,7 @@ class JobPortal {
     }
 }
 
-public class Jobfit {
+class Jobfit {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         JobPortal portal = new JobPortal();
