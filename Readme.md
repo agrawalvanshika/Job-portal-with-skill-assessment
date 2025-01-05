@@ -31,6 +31,20 @@ CSS3: For styling and responsive design.
 JavaScript (ES6): For interactivity (e.g., job search filtering).
 
 
+__Project structure__
+
+Job-portal-with-skill-assessment/
+├── src/
+│   ├── main/
+│   │   ├── java/               (Java source files)
+│   │   ├── resources/          (Configuration files)
+│   │   └── webapp/             (HTML, JSP, JS, CSS files)
+│   │       └── WEB-INF/
+│   └── test/                   (Test files)
+└── pom.xml
+
+
+
 __How to Use__
 1. Clone the Repository
 2. Open in Browser
