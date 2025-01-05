@@ -41,6 +41,15 @@ Job-portal-with-skill-assessment/
 │    └── test/                   (Test files)  
 └── pom.xml  
 
+project-root/
+├── src/
+│   ├── main/
+│   │   ├── java/               (Java source files)
+│   │   ├── resources/          (Configuration files)
+│   │   └── webapp/             (HTML, JSP, JS, CSS files)
+│   │       └── WEB-INF/
+│   └── test/                   (Test files)
+└── pom.xml
 
 
 __How to Use__
