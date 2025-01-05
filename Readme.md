@@ -30,8 +30,7 @@ CSS3: For styling and responsive design.
 
 JavaScript (ES6): For interactivity (e.g., job search filtering).
 
-
-__Project structure__
+###Structure
 
 Job-portal-with-skill-assessment/
 ├── src/
