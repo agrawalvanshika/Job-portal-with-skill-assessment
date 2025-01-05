@@ -34,12 +34,12 @@ __Structure__
 
 Job-portal-with-skill-assessment/  
 ├── src/  
-│   ├── main/  
-│   │   ├── java/               (Java source files)  
-│   │   ├── resources/          (Configuration files)  
-│   │   └── webapp/             (HTML, JSP, JS, CSS files)  
-│   │       └── WEB-INF/  
-│   └── test/                   (Test files)  
+│    ├── main/  
+│    │    ├── java/               (Java source files)  
+│    │    ├── resources/          (Configuration files)  
+│    │    └── webapp/             (HTML, JSP, JS, CSS files)  
+│    │        └── WEB-INF/  
+│    └── test/                   (Test files)  
 └── pom.xml  
 
 
