@@ -1,6 +1,5 @@
 Hello Sir/Mam,
 
-__AS COMMENTED BY YOU ALL THE CHANGES DONE IN REVIEW 2 FOLDER (JSP FILES, JS VALIDATION, WEBPAGE PRESENT IN PNG FROMAT)__
 
 We had made Jobfit - Modern Job Portal
 
@@ -28,22 +27,33 @@ HTML5: For structuring the content.
 
 CSS3: For styling and responsive design.
 
-JavaScript (ES6): For interactivity (e.g., job search filtering).
+JavaScript (ES6): For interactivity (e.g., job search filtering)
+
+
 
 __Structure__
 
 Job-portal-with-skill-assessment/  
+├── .idea/  
+│       ├──  compiler.xml/    
+│       ├── jarRepositories.xml/     
+│       ├── misc.xml/    
+│       ├── modules.xml/    
+│       └── vcs.xml/    
+├── apache-tomcat-9.0.98/    
 ├── src/    
-│    ├── main/    
-│    │    ├── java/                 (Java source files)  
-│    │    ├── resources/            (Configuration files)  
-│    │    └── webapp/               (HTML, JSP, JS, CSS files)  
-│    └── test/                     (Test files)  
-└── pom.xml    
+│    └── main/    
+│        ├── java/                   
+│        ├── resources/              
+│        └── webapp/                 
+│── target/                       
+│── Readme.md/  
+│── pom.xml/    
+└── web-project.iml  
 
 
 __How to Use__
 1. Clone the Repository
-2. Open in Browser
-3. Navigate to the project directory.
-4. Open the index.html file in any modern browser.
+2. Open in VS CODE or Similar Compiler 
+3. Navigate to the project directory
+4. Open the Src files and run it.
