@@ -64,9 +64,7 @@ Jobfit is a modern job portal designed to connect job seekers with employers eff
 ```
 ## Technology Used
 
-![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReLb6hLk5P0qkPAv4gruk0sshrS_V45qHxIQ&s) 
-
-![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s)
+![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReLb6hLk5P0qkPAv4gruk0sshrS_V45qHxIQ&s)![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s)
 
 ![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFfShxyzGCEk3mGJnhLuh1CiYyZqTu2sO6zg&s)
 
