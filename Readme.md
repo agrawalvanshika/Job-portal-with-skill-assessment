@@ -57,9 +57,10 @@ Jobfit is a modern job portal designed to connect job seekers with employers eff
 │   ├── maven-status
 │   ├── test-classes
 │   └── web-project-1.0-SNAPSHOT.war
-├── pom.xml
+│
 ├── Final Review.md
 ├── Readme.md
+├── pom.xml
 └── web-project.iml
 
 ```
